@@ -4,6 +4,10 @@ An entry into the world of AWS geared towards frontend developers.
 
 This repo can be used workshop-style or as a simple guide so that folks can be introduced to some of the core principles of AWS and its services.
 
+## PreReq's
+
+The website that we'll be developing is made with HTML, CSS, and JavaScript, so a basic understanding of those will be helpful, though not necessary.
+
 ## Topics Covered
 
 0. Overview
